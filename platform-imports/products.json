@@ -1,0 +1,227 @@
+﻿[
+    {
+        "handle":  "zl-signature-hoodie-black",
+        "title":  "ZL Signature Hoodie Black",
+        "category":  "Hoodie",
+        "color":  "Black",
+        "price":  74.95,
+        "compareAt":  89.95,
+        "skuPrefix":  "ZL-HOOD-BLK",
+        "image":  "assets/black-product.jpg",
+        "description":  "Premium black hoodie with gold ZL chest logo and back branding. Heavy soft feel, oversized streetwear fit and clean black-gold identity.",
+        "tags":  [
+                     "hoodie",
+                     "black",
+                     "gold",
+                     "streetwear",
+                     "zl worldwide"
+                 ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL",
+                      "XXL"
+                  ]
+    },
+    {
+        "handle":  "zl-signature-hoodie-white",
+        "title":  "ZL Signature Hoodie White",
+        "category":  "Hoodie",
+        "color":  "White",
+        "price":  74.95,
+        "compareAt":  89.95,
+        "skuPrefix":  "ZL-HOOD-WHT",
+        "image":  "assets/white-product.jpg",
+        "description":  "White hoodie with refined gold ZL details. A bright, high-status contrast piece for a full ZL look.",
+        "tags":  [
+                     "hoodie",
+                     "white",
+                     "gold",
+                     "streetwear",
+                     "zl worldwide"
+                 ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL",
+                      "XXL"
+                  ]
+    },
+    {
+        "handle":  "zl-oversized-tee-black",
+        "title":  "ZL Oversized Tee Black",
+        "category":  "T-Shirt",
+        "color":  "Black",
+        "price":  44.95,
+        "compareAt":  54.95,
+        "skuPrefix":  "ZL-TEE-BLK",
+        "image":  "assets/black-product.jpg",
+        "description":  "Oversized black tee with ZL logo placement and clean back print. Easy to style, premium visual impact.",
+        "tags":  [
+                     "tee",
+                     "black",
+                     "gold",
+                     "oversized",
+                     "zl worldwide"
+                 ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL",
+                      "XXL"
+                  ]
+    },
+    {
+        "handle":  "zl-oversized-tee-white",
+        "title":  "ZL Oversized Tee White",
+        "category":  "T-Shirt",
+        "color":  "White",
+        "price":  44.95,
+        "compareAt":  54.95,
+        "skuPrefix":  "ZL-TEE-WHT",
+        "image":  "assets/white-product.jpg",
+        "description":  "White oversized tee with gold ZL detailing. Minimal, crisp and made for warm-weather luxury fits.",
+        "tags":  [
+                     "tee",
+                     "white",
+                     "gold",
+                     "oversized",
+                     "zl worldwide"
+                 ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL",
+                      "XXL"
+                  ]
+    },
+    {
+        "handle":  "zl-track-pants-black",
+        "title":  "ZL Track Pants Black",
+        "category":  "Pants",
+        "color":  "Black",
+        "price":  59.95,
+        "compareAt":  69.95,
+        "skuPrefix":  "ZL-PANT-BLK",
+        "image":  "assets/collage.jpg",
+        "description":  "Premium track pants with ZL branding and relaxed taper. Built to complete the hoodie set.",
+        "tags":  [
+                     "pants",
+                     "black",
+                     "gold",
+                     "streetwear",
+                     "zl worldwide"
+                 ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL",
+                      "XXL"
+                  ]
+    },
+    {
+        "handle":  "zl-full-tracksuit-black",
+        "title":  "ZL Full Tracksuit Black",
+        "category":  "Set",
+        "color":  "Black",
+        "price":  129.95,
+        "compareAt":  149.95,
+        "skuPrefix":  "ZL-SET-BLK",
+        "image":  "assets/campaign-grid.jpg",
+        "description":  "The complete black ZL set: hoodie and pants together for a stronger price than buying separately.",
+        "tags":  [
+                     "tracksuit",
+                     "set",
+                     "black",
+                     "gold",
+                     "zl worldwide"
+                 ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL",
+                      "XXL"
+                  ]
+    },
+    {
+        "handle":  "zl-worldwide-cap-black",
+        "title":  "ZL Worldwide Cap Black",
+        "category":  "Cap",
+        "color":  "Black",
+        "price":  29.95,
+        "compareAt":  34.95,
+        "skuPrefix":  "ZL-CAP-BLK",
+        "image":  "assets/collage.jpg",
+        "description":  "Black structured cap with gold ZL embroidery. A quick add-on that makes every order feel complete.",
+        "tags":  [
+                     "cap",
+                     "black",
+                     "gold",
+                     "accessories",
+                     "zl worldwide"
+                 ],
+        "sizes":  [
+                      "One Size"
+                  ]
+    },
+    {
+        "handle":  "zl-luxury-duffle-bag",
+        "title":  "ZL Luxury Duffle Bag",
+        "category":  "Bag",
+        "color":  "Black",
+        "price":  89.95,
+        "compareAt":  109.95,
+        "skuPrefix":  "ZL-BAG-DUFFLE",
+        "image":  "assets/collage.jpg",
+        "description":  "Black travel duffle with ZL branding for gym, weekend trips and content-ready product bundles.",
+        "tags":  [
+                     "bag",
+                     "duffle",
+                     "black",
+                     "gold",
+                     "accessories",
+                     "zl worldwide"
+                 ],
+        "sizes":  [
+                      "One Size"
+                  ]
+    },
+    {
+        "handle":  "zl-launch-bundle",
+        "title":  "ZL Launch Bundle",
+        "category":  "Set",
+        "color":  "Mixed",
+        "price":  169.95,
+        "compareAt":  209.95,
+        "skuPrefix":  "ZL-BUNDLE-LAUNCH",
+        "image":  "assets/storyboard.jpg",
+        "description":  "Launch bundle with hoodie, tee and cap styling. Designed for customers who want the full brand look at once.",
+        "tags":  [
+                     "bundle",
+                     "hoodie",
+                     "tee",
+                     "cap",
+                     "zl worldwide"
+                 ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL",
+                      "XXL"
+                  ]
+    }
+]

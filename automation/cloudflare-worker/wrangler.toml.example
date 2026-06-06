@@ -1,0 +1,16 @@
+﻿name = "zl-worldwide-order-automation"
+main = "worker.js"
+compatibility_date = "2026-06-06"
+
+# After deployment, set secrets:
+# wrangler secret put PRINTFUL_TOKEN
+# wrangler secret put RESEND_API_KEY
+
+[vars]
+MODE = "dry_run"
+OWNER_EMAIL = "ZenLuxuryWorldWide@gmail.com"
+STORE_NAME = "ZL Worldwide"
+FULFILLMENT_PROVIDER = "dry_run"
+PRINTFUL_CONFIRM = "false"
+PRINTFUL_VARIANT_MAP = "{}"
+RESEND_FROM = "ZL Worldwide <orders@example.com>"
